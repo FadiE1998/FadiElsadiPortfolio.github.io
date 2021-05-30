@@ -54,12 +54,13 @@ p {
 }
 
 .contact {
-    text-align: center;
+   text-align: center;
     color: white;
     border-radius: 30%;
-    position: relative;
-    bottom: 90px;
+    position: absolute;
+    bottom: -50px;
     font-size: 30px;
+    right: 440px;
 }
 a{
     color: white;
