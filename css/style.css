@@ -65,4 +65,8 @@ a{
     color: white;
     text-decoration: none;
 }
+.style a:hover{
+    color: blue;
+
+}
 
