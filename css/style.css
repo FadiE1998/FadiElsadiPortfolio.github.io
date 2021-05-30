@@ -57,10 +57,9 @@ p {
     text-align: center;
     color: white;
     border-radius: 30%;
-    position: fixed;
-    bottom: 60px;
+    position: relative;
+    bottom: 90px;
     font-size: 30px;
-    right: 440px;
 }
 a{
     color: white;
